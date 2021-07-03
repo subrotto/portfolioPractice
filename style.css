@@ -1,0 +1,44 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.banner-container{
+    background-color: #651E3E;
+}
+.banner-column{
+    background-color: #061E3E;
+}
+
+.myclass{
+background-color: #95D9EB;
+}
+.typ{
+    background-color:grey;
+}
+.po{
+    background-color: silver;
+}
+.colo{
+    background-color: #E592A2;
+}
+.navbar{
+    top: 0;
+    position: sticky;
+  
+}
+.form-container{
+    background-color: #4A535C;
+}
+.inner-form{
+    background-color: #4A535C;
+}
+.oto{
+    background-color: #E6A73D;
+    
+}
+.oto:hover{
+    background-color: #661D4B;
+    
+}
+.pio{
+    background-color: #5C3E84;
+}
